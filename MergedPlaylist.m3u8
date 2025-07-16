@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://tinyurl.com/DrewLive002-epg"
-# Last forced update: 2025-07-16T05:00:16.670773Z
+# Last forced update: 2025-07-16T06:20:13.568097Z
 
 #EXTGRP: Mystique Caribbean
-#EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
+#EXTINF:-1  tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean",CVM (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/66371
 
 #EXTGRP:24/7 by Mystique
@@ -2463,18 +2463,6 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zack.and.Miri.Make.a.Porno.2
 #EXTINF:-1  tvg-name="Zombieland (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_.jpg" group-title="DrewLive VOD" radio="false",Zombieland (2009)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv
 
-#EXTGRP:FIFA Club World Cup
-#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="FIFA Club World Cup" radio="false",CAR: RUSH Sports
-https://a1xs.vip/2501
-#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="FIFA Club World Cup" radio="false",UK: Channel 5
-https://a1xs.vip/1000030
-#EXTINF:-1  tvg-name="TBS" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA Club World Cup" radio="false",US: TBS
-https://a1xs.vip/300038
-#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="FIFA Club World Cup" radio="false",US: TNT
-https://a1xs.vip/300001
-#EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="FIFA Club World Cup" radio="false",US: truTV
-https://a1xs.vip/300002
-
 #EXTGRP:FSTV
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/1200px-WABC_TV_New_2021.svg.png" group-title="FSTV",ABC
 https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTliNGZhYjg0M2E1LWM0OGItMmM1NC02ZGQxLWZmMDA2NGI4/master.m3u8
@@ -3682,19 +3670,19 @@ https://tvnow.best/api/stream/burns/burns/livetv.epg/z.ca.m3u8
 https://tvnow.best/api/stream/burns/burns/livetv.epg/zeste.ca.m3u8
 
 #EXTGRP:Mystique Caribbean
-#EXTINF:-1 tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="Mystique Caribbean", JNN (Jamaica)
+#EXTINF:-1  tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="Mystique Caribbean",JNN (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/99566
-#EXTINF:-1 tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" group-title="Mystique Caribbean", RETV (Jamaica)
+#EXTINF:-1  tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" group-title="Mystique Caribbean",RETV (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/21094
-#EXTINF:-1 tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="Mystique Caribbean", RUSH Sports (Any Caribbean Country)
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="Mystique Caribbean",RUSH Sports (Any Caribbean Country)
 http://1tv41.icu:8080/5ZCJFs/416986/100043
-#EXTINF:-1 tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="Mystique Caribbean", SPORTSMAX 2 (Any Caribbean Country)
+#EXTINF:-1  tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="Mystique Caribbean",SPORTSMAX 2 (Any Caribbean Country)
 http://1tv41.icu:8080/5ZCJFs/416986/119471
-#EXTINF:-1 tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="Mystique Caribbean", TV Direct 13 (Curaçao)
+#EXTINF:-1  tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="Mystique Caribbean",TV Direct 13 (Curaçao)
 http://1tv41.icu:8080/5ZCJFs/416986/216085
-#EXTINF:-1 tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="Mystique Caribbean", TVJ (Jamaica)
+#EXTINF:-1  tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="Mystique Caribbean",TVJ (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/78918
-#EXTINF:-1 tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean", TVJ Sports (Jamaica)
+#EXTINF:-1  tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean",TVJ Sports (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 
 #EXTGRP:Mystique NZ
