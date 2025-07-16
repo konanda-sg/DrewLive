@@ -455,16 +455,6 @@ https://jmp2.uk/sam-USBC3900009K5.m3u8
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 #EXTINF:-1  tvg-name="XITE R&B Classic Jams" tvg-id="USBD330000948" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/01/18134622/XITE-RB-Classic-Jams.jpg" group-title="DrewLive Music Video Channels" radio="false",XITE R&B Classic Jams
 https://jmp2.uk/sam-USBD330000948.m3u8
-#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="FIFA Club World Cup" radio="false",CAR: RUSH Sports
-https://a1xs.vip/2501
-#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="FIFA Club World Cup" radio="false",UK: Channel 5
-https://a1xs.vip/1000030
-#EXTINF:-1  tvg-name="TBS" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA Club World Cup" radio="false",US: TBS
-https://a1xs.vip/300038
-#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="FIFA Club World Cup" radio="false",US: TNT
-https://a1xs.vip/300001
-#EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="FIFA Club World Cup" radio="false",US: truTV
-https://a1xs.vip/300002
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1  tvg-name="A&E" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="MoveOnJoy" radio="false",A&E
@@ -1313,21 +1303,21 @@ http://user.scalecdn.co:8080/live/26725074/92867131/647755.ts
 https://tvnow.best/api/stream/burns/burns/livetv.epg/z.ca.m3u8
 #EXTINF:-1  tvg-id="Zeste.HD.ca" tvg-logo="https://media.starlite.best/zeste.ca.png" group-title="Mystique CA" radio="false",Zeste
 https://tvnow.best/api/stream/burns/burns/livetv.epg/zeste.ca.m3u8
-#EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
+#EXTINF:-1  tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean",CVM (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/66371
-#EXTINF:-1 tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="Mystique Caribbean", JNN (Jamaica)
+#EXTINF:-1  tvg-name="JNN" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://grassrootsjusticenetwork.org/wp-content/uploads/2018/08/jn_plus_logo_website.png" group-title="Mystique Caribbean",JNN (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/99566
-#EXTINF:-1 tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" group-title="Mystique Caribbean", RETV (Jamaica)
+#EXTINF:-1  tvg-name="RETV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.dancehallreggaeworld.com/images/retv_logo.png" group-title="Mystique Caribbean",RETV (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/21094
-#EXTINF:-1 tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="Mystique Caribbean", RUSH Sports (Any Caribbean Country)
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/rush-car.png?raw=true" group-title="Mystique Caribbean",RUSH Sports (Any Caribbean Country)
 http://1tv41.icu:8080/5ZCJFs/416986/100043
-#EXTINF:-1 tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="Mystique Caribbean", SPORTSMAX 2 (Any Caribbean Country)
+#EXTINF:-1  tvg-name="SPORTSMAX 2" tvg-id="SPORTSMAX2.jm" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/caribbean/jamaica/sportsmax-2-hz-jm.png?raw=true" group-title="Mystique Caribbean",SPORTSMAX 2 (Any Caribbean Country)
 http://1tv41.icu:8080/5ZCJFs/416986/119471
-#EXTINF:-1 tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="Mystique Caribbean", TV Direct 13 (Curaçao)
+#EXTINF:-1  tvg-name="TV Direct 13" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.cur.watch/images/kodi_icon.png" group-title="Mystique Caribbean",TV Direct 13 (Curaçao)
 http://1tv41.icu:8080/5ZCJFs/416986/216085
-#EXTINF:-1 tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="Mystique Caribbean", TVJ (Jamaica)
+#EXTINF:-1  tvg-name="TVJ" tvg-id="Television.Jamaica.jm" tvg-logo="https://outsource2jamaica.com/wp-content/uploads/2021/05/Television-Jamaica-Limited-TVJ.png" group-title="Mystique Caribbean",TVJ (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/78918
-#EXTINF:-1 tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean", TVJ Sports (Jamaica)
+#EXTINF:-1  tvg-name="TVJ Sports" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.reggaemarathon.com/wp-content/uploads/2019/03/tvj-sports-logo.png" group-title="Mystique Caribbean",TVJ Sports (Jamaica)
 http://1tv41.icu:8080/5ZCJFs/416986/66077
 #EXTINF:-1  tvg-id="Bravo.PLUS.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/bravo-plus-nz.png?raw=true" group-title="Mystique NZ" radio="false",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
@@ -1369,7 +1359,7 @@ https://d47743dknc7xq.cloudfront.net/out/v1/889d35656a514495a9642ba6dae30962/ind
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/spark-5-logo-png-transparent.png" group-title="Mystique Presents: Web Channels" radio="false",Spark
 https://delta.webchnl.live/memfs/eea022e8-8a0b-414c-9e06-264b1088e577_output_0.m3u8?session=k3biEf7ZLAsh6JVGCTJiLt
-#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boomerang.png" group-title="Mystique Presents: Web Channels" radio="false",Classic Boomerang 24/7 
+#EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boomerang.png" group-title="Mystique Presents: Web Channels" radio="false",Classic Boomerang 24/7
 https://cdn.webvision.fun/memfs/3cc2fa80-1aa6-4e09-b4cf-27c80f112fa9_output_0.m3u8?session=eYreWjjeY4PaubKtCNs9zg
 #EXTINF:-1  tvg-id="24.7.Dummy.us" tvg-logo="https://webvision.fun/assets/logos/eel.png" group-title="Mystique Presents: Web Channels" radio="false",EEL Channel (webchnl)
 https://delta.webchnl.live/memfs/1300c062-d4cd-402c-baf6-084dc5192fac.m3u8
